@@ -64,10 +64,5 @@
 <Br>
 
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1>Gracias Por Tu Tiempo</h1>
 <Br>
-
-------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
