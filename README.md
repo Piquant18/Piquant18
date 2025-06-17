@@ -2,7 +2,7 @@
   <img src="https://static.wikia.nocookie.net/rdr/images/a/a7/Red_Dead_Redemption.jpg/revision/latest?cb=20100417083406&path-prefix=es" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hola, Soy<a href="https://github.com/Aryagm">Jhon Alexander Medina Lopez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola, Soy<a href="https://github.com/Aryagm"> Jhon Alexander Medina Lopez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
