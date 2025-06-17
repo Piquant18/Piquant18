@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="[https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png](https://static.wikia.nocookie.net/rdr/images/a/a7/Red_Dead_Redemption.jpg/revision/latest?cb=20100417083406&path-prefix=es)" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
