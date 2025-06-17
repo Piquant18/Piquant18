@@ -19,8 +19,7 @@
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/jhon-medina-99a457351/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jhonmedina0320@gmail.com
-" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://wa.me/573189276920?text=Hola%2C%20Jhon" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-green
-" /></a>
+" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://wa.me/573189276920?text=Hola%2C%20Jhon" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-green" /></a>
 </p>
   
 <Br>
