@@ -53,16 +53,5 @@
  
 
 <Br>
-<hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Piquant18&show_icons=true&theme=merko)](https://github.com/Piquant18/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piquant18&layout=compact&theme=merko)](https://github.com/Piquant18/github-readme-stats)
-
- 
-<Br>
-
-<Br>
 <h1>Gracias Por Tu Tiempo</h1>
 <Br>
