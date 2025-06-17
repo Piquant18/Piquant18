@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: Soy un estudiante graduado de secundaria y tengo la certidicacion CS50’s Introduction to Computer Science.
-- <img src="https://1drv.ms/i/c/574ae37f521abb68/EeBYp_U9eVxPmpa7y9PnuKkBTEZfAPyteCs8IhQuiP3Ngw?e=0Q4aHL" height="460"/>
+- <img src="https://media.discordapp.net/attachments/1222693042520064114/1384561696315670528/CS50x_page-0001.jpg?ex=6852e110&is=68518f90&hm=e028f02231fdbaf8d4e4556601a254dfcd0d5214538ff099c223a1a5cc3814e5&=&format=webp&width=851&height=658" height="460"/>
 - 🔭: Actualmente Estudio Programacion y Desarrollo de videojuegos en el SENA.
 - 🌱: Estoy dispuesto todas las cosas que sean necesarias para ejercer mi trabajo. 🧠💻🤖
 - 🤔: Me ayudo con IA para mi aprendizaje y se que la IA no puede hacer todo sola y se como dar instrucciones para dar buenos resultados 😅
