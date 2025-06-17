@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://static.wikia.nocookie.net/rdr/images/a/a7/Red_Dead_Redemption.jpg/revision/latest?cb=20100417083406&path-prefix=es](https://media.discordapp.net/attachments/1222693042520064114/1384337004719767695/jiji.jpg?ex=68520fcd&is=6850be4d&hm=aa4e344a6b0227344954be2221bd28fef3c0ef2433d9443a7b2758319c1a8d02&=&format=webp)" height="230"/>
+  <img src="https://media.discordapp.net/attachments/1222693042520064114/1384337004719767695/jiji.jpg?ex=68520fcd&is=6850be4d&hm=aa4e344a6b0227344954be2221bd28fef3c0ef2433d9443a7b2758319c1a8d02&=&format=webp" height="230"/>
 </p>
 <hr>
 <h1 align="center">Hola, Soy<a href="https://github.com/Aryagm"> Jhon Alexander Medina Lopez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
