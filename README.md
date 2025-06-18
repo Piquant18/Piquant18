@@ -27,7 +27,7 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)|![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)|![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white)|![Static Badge](![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css)|![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql&logoColor=white)|
+|![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)|![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)|![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white)|![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css)|![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql&logoColor=white)|
 |---|---|---|---|---|
 
   
