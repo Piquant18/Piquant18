@@ -38,7 +38,7 @@
 <h1>Mi Mejor Proyecto🎮</h1>
 <Br>
   
-[![ReadMe Card](https://github.com/Piquant18/Mi-Proyecto-CS50-Pagina-Web)
+[![Mi Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=Piquant18&repo=Mi-Proyecto-CS50-Pagina-Web)](https://github.com/Piquant18/Mi-Proyecto-CS50-Pagina-Web)
 
 <Br>
 <hr>
