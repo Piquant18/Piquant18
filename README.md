@@ -38,7 +38,7 @@
 <h1>Mi Mejor Proyecto🎮</h1>
 <Br>
   
-(https://github.com/Piquant18/Mi-proyecto-cs50-pagina-web)
+[![ReadMe Card](https://github.com/Piquant18/Mi-Proyecto-CS50-Pagina-Web)
 
 <Br>
 <hr>
