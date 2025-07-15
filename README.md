@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hola, Soy<a href="https://github.com/Aryagm"> Jhon Alexander Medina Lopez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola, Soy<a href="https://github.com/Piquant18"> Jhon Alexander Medina Lopez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Sobre mi</h1>
 
