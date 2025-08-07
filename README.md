@@ -4,7 +4,7 @@
 <h1>Sobre mi</h1>
 
 - Soy un estudiante bachiller tecnico comercial, tecnologo en nomina y prestasiones sociales, tengo la certificacion CS50’s Introduction to Computer Science y estoy empezando mi primer semestre en Ingieneria De Sistemas.
-<img src="https://media.discordapp.net/attachments/1222693042520064114/1384561696315670528/CS50x_page-0001.jpg?ex=6852e110&is=68518f90&hm=e028f02231fdbaf8d4e4556601a254dfcd0d5214538ff099c223a1a5cc3814e5&=&format=webp&width=851&height=658" height="460"/>
+<img src="https://1drv.ms/b/c/5ee5d1672765eb36/Ee2Cvd0G-thEt306UrBE4WwB9FO1Lijvt7X2_rRBJ4n6sA?e=hD2QGH" height="460"/>
 
 - Actualmente Estudio Programacion y Desarrollo De Videojuegos En El SENA. 
 - Estoy dispuesto a aprender todas las cosas que sean necesarias para ejercer mi trabajo. 🧠💻
