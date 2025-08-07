@@ -5,7 +5,7 @@
 
 - Soy un estudiante bachiller tecnico comercial, tecnologo en nomina y prestasiones sociales, tengo la certificacion CS50’s Introduction to Computer Science y estoy empezando mi primer semestre en Ingieneria De Sistemas.
 - 
-[CERTIFICADO](https://1drv.ms/b/c/5ee5d1672765eb36/Ee2Cvd0G-thEt306UrBE4WwB9FO1Lijvt7X2_rRBJ4n6sA?e=QKR8Zw)
+[CERTIFICADO](https://certificates.cs50.io/511d5402-0224-467e-986d-87d100c19a14.pdf?size=letter)
 - Actualmente Estudio Programacion y Desarrollo De Videojuegos En El SENA. 
 - Estoy dispuesto a aprender todas las cosas que sean necesarias para ejercer mi trabajo. 🧠💻
 - Me ayudo con IA para mi aprendizaje y se que la IA no puede hacer todo sola y se como dar instrucciones para dar buenos resultados 🤖
