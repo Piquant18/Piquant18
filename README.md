@@ -4,7 +4,7 @@
 <h1>Sobre mi</h1>
 
 - Soy un estudiante bachiller tecnico comercial, tecnologo en nomina y prestasiones sociales, tengo la certificacion CS50’s Introduction to Computer Science y estoy empezando mi primer semestre en Ingieneria De Sistemas.
-- 
+
 [CERTIFICADO](https://certificates.cs50.io/511d5402-0224-467e-986d-87d100c19a14.pdf?size=letter)
 - Actualmente Estudio Programacion y Desarrollo De Videojuegos En El SENA. 
 - Estoy dispuesto a aprender todas las cosas que sean necesarias para ejercer mi trabajo. 🧠💻
